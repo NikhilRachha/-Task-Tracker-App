@@ -1,4 +1,6 @@
-# This is a project on Task Tracker. It includes Angular UI as well as JSON-server for our mock backend
+# Task Tracker App
+
+ This is a project on Task Tracker. It includes Angular UI as well as JSON-server for our mock backend
 
 ## Usage
 
